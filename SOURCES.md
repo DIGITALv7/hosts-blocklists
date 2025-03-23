@@ -1,5 +1,6 @@
 List Source | Type | Category | Comments
 --- | --- | --- | ---
+https://raw.githubusercontent.com/DIGITALv7/MannyMan-AdBlock/refs/heads/main/MannyMan-AdBlock.txt | 'ads/tracking/analytics/malware' |
 https://someonewhocares.org/hosts/|hostfile|`ads`|
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts|hostfile|`ads`|
 https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt|hostfile|`spam`|
