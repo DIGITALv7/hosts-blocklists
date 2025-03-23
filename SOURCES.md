@@ -91,3 +91,4 @@ https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/r
 https://filters.adtidy.org/extension/ublock/filters/224.txt|adblock|`ads`|
 https://raw.githubusercontent.com/abpvn/abpvn/master/filter/src/abpvn_ad_domain.txt|adblock|`ads`|
 https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumthreatlist.txt|adblock|`phishing` `scam`|
+https://raw.githubusercontent.com/DIGITALv7/MannyMan-AdBlock/refs/heads/main/MannyMan-AdBlock.txt | 'ads' 'malware' 'tracking' 'analytics'|
